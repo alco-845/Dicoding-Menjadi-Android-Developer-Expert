@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="title_search">Search</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="movie_title">Title</string>
+    <string name="movie_release_date">Release Date</string>
+    <string name="movie_rating">Rating</string>
+    <string name="movie_overview">Overview</string>
+
+    <string name="image_url">https://image.tmdb.org/t/p/original</string>
+
+    <string name="search_hint">Movie title</string>
+
+    <string name="empty_favorite">You don\'t have favorite movie :(</string>
+
+    <string name="toast_error">Whoops Something wrong</string>
+</resources>
